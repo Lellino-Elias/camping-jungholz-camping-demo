@@ -38,7 +38,7 @@ const campingJungholz: CampsiteConfig = {
     {
       title: "1. Alpenkräuterdorf",
       text: "Jungholz ist das 1. Allgäuer Alpenkräuterdorf Tirols — mit Kräuterwanderungen und eigenem Kräutergarten.",
-      image: { src: `${IMG}/kraeuterwiese.webp`, alt: "Blühende Alpenkräuterwiese mit Berg im Hintergrund bei Jungholz" },
+      image: { src: `${IMG}/kraeuterwiese.webp`, alt: "Violette Bergblume auf einer Alpenwiese bei Jungholz — dem 1. Allgäuer Alpenkräuterdorf Tirols" },
     },
   ],
 
@@ -77,7 +77,7 @@ const campingJungholz: CampsiteConfig = {
       {
         title: "Stellplätze mit Strom",
         text: "140 ebene Plätze mit Stromversorgung und meist eigenem Grauwasseranschluss — für Wohnwagen und Wohnmobil.",
-        image: { src: `${IMG}/stellplatz-wohnwagen.webp`, alt: "Wohnwagen auf einem Stellplatz von Camping Jungholz" },
+        image: { src: `${IMG}/stellplatz-wohnwagen.webp`, alt: "Wohnwagen auf den Stellplätzen von Camping Jungholz im Sommer mit Bergwaldblick" },
       },
       {
         title: "Ruhig gelegen",
@@ -87,7 +87,7 @@ const campingJungholz: CampsiteConfig = {
       {
         title: "Kunst & Camping",
         text: "Über den Platz verteilt triffst du auf Skulpturen — bei uns gehören Kunst und Camping einfach zusammen.",
-        image: { src: `${IMG}/kunst-camping.webp`, alt: "Skulptur auf dem Gelände von Camping Jungholz" },
+        image: { src: `${IMG}/kunst-camping.webp`, alt: "Skulpturen auf dem Gelände von Camping Jungholz inmitten einer sommerlichen Löwenzahnwiese" },
       },
       {
         title: "Kleine Partyhütte",
@@ -97,7 +97,7 @@ const campingJungholz: CampsiteConfig = {
       {
         title: "Herzlich willkommen",
         text: "Ein herzliches Griaß di, Brötchen vom heimischen Bäcker und freies WLAN — Allgäuer Gastlichkeit eben.",
-        image: { src: `${IMG}/willkommen-griassdi.webp`, alt: "Verwittertes Griaß-di-Schild am Eingang von Camping Jungholz" },
+        image: { src: `${IMG}/willkommen-griassdi.webp`, alt: "Wohnwagen-Vogelhaus mit Meise am Eingang von Camping Jungholz — herzlich willkommen" },
       },
       {
         title: "Mitten im Grünen",
@@ -125,7 +125,7 @@ const campingJungholz: CampsiteConfig = {
       {
         title: "Seen & Baden",
         text: "Das beheizte Felsenbad ist schnell erreicht, und die vielen Seen der Gegend laden zum Schwimmen ein.",
-        image: { src: `${IMG}/bergsee.webp`, alt: "Bergsee in der Umgebung von Jungholz im Tannheimer Tal" },
+        image: { src: `${IMG}/bergsee.webp`, alt: "Türkisblauer Bergsee im Sommer mit grünem Bergpanorama in der Umgebung von Jungholz" },
       },
       {
         title: "Kräuterwanderungen",
