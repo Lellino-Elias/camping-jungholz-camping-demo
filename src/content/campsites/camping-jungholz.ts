@@ -82,7 +82,7 @@ const campingJungholz: CampsiteConfig = {
       {
         title: "Ruhig gelegen",
         text: "Jungholz hat keinen Durchgangsverkehr — bei uns hörst du abends vor allem die Stille und die Berge ringsum.",
-        image: { src: `${IMG}/platz-lage.webp`, alt: "Moderne Wohnwagen auf dem grünen Sommercampingplatz von Camping Jungholz mit Bergwald im Hintergrund" },
+        image: { src: `${IMG}/platz-lage.webp`, alt: "Hagebutten im Gegenlicht vor einem Wohnwagen auf dem ruhig gelegenen Campingplatz Jungholz" },
       },
       {
         title: "Kunst & Camping",
